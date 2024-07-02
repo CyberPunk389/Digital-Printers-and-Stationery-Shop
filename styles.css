@@ -2,7 +2,7 @@ h1 { color: rgba(244, 118, 45, 0.982);}
 h1 {text-align:center ;}
 img {display: block; margin: 0 auto;padding: 20px;h}
 h2, h3, h4, h5, h6 {color: rgb(251, 98, 16);}
-<!--Adding searchbox-->
+/*Adding searchbox*/
 form {
     display: inline-block;
   }
@@ -30,7 +30,7 @@ form {
     display: inline-block;
   }
  .center {text-align: center;}
- <!--HAMBURGER-->
+ /*HAMBURGER*/
  body {
   margin: 0;
   padding: 0;
@@ -77,11 +77,11 @@ nav ul li a {
 nav ul li a:hover {
   background-color: #3f15e6;
 }
-  <!--END HAMBURGER-->
+  /*END HAMBURGER*/
   #state {font-style: open sans; color: rgb(203, 18, 220);}
   <!--BODY DESIGN-->
 .box{border-radius: 15px 50px;
 }
-  <!--END DESIGN-->
+  /*END DESIGN*/
   
 
